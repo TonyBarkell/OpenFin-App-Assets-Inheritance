@@ -1,0 +1,1 @@
+# OpenFin-App-Assets-Inheritance
