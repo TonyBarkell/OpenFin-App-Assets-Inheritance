@@ -1,0 +1,28 @@
+{
+    "startup_app": {
+        "url": "http://localhost:8080/index.html",
+        "name": "App-Assets-Example",
+        "uuid": "App-Assets-Example",
+        "frame": true,
+        "autoShow": true,
+        "defaultWidth": 500,
+        "defaultHeight": 500,
+        "applicationIcon": "http://localhost:8080/favicon.ico"
+    },
+    "runtime": {
+        "version": "9.61.37.46",
+        "arguments": ""
+    },
+    "appAssets": [
+        {
+            "src": "http://localhost:8080/assets/mspaint.zip",
+            "alias": "paint",
+            "version": "1.1",
+            "target": "mspaint.exe",
+            "mandatory": true
+        }
+    ],
+    "shortcut": {
+        "icon": "http://localhost:8080/favicon.ico"
+    }
+}
